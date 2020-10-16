@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--Angulos:  0, 45, 90, 135  -->
+    <item>
+        <shape>
+            <gradient
+
+                android:startColor="#186076"
+                android:endColor="#2FCFFE"
+                android:angle="45">
+
+            </gradient>
+        </shape>
+
+    </item>
+
+</selector>
